@@ -1,0 +1,331 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The practises of the Earl of Leycester against the minister of Pensherst laid open in a narrarive [sic] sent to his late Highness Oliver Lord Protector August 5. 1658.</title>
+            <author>Maudit, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 33 KB of XML-encoded text transcribed from 25 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50301</idno>
+            <idno type="STC">Wing M1330</idno>
+            <idno type="STC">ESTC R217681</idno>
+            <idno type="EEBO-CITATION">99829335</idno>
+            <idno type="PROQUEST">99829335</idno>
+            <idno type="VID">33772</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A50301)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33772)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1918:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The practises of the Earl of Leycester against the minister of Pensherst laid open in a narrarive [sic] sent to his late Highness Oliver Lord Protector August 5. 1658.</title>
+                  <author>Maudit, John.</author>
+               </titleStmt>
+               <extent>[10], 32, [4] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by T.R. for the author,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed and dated on A5r: July 22. 1658. John Maudit.</note>
+                  <note>Caption title on A6r reads: A narrative of the sufferings of the minister of Pensherst under the prosecution of the Earl of Leycester.</note>
+                  <note>Earl of Leycester = Robert Sidney, Earl of Leicester. The minister of Pensherst = John Maudit.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Leicester, Robert Sidney, --  Earl of, 1595-1677 --  Early works to 1800.</term>
+               <term>Maudit, John --  Early works to 1800.</term>
+               <term>Religion and law --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:33772:1" rendition="simple:additions"/>
+            <p>THE PRACTISES OF THE EARL of <hi>LEYCESTER</hi> Againſt the MINISTER of <hi>PENSHERST:</hi>
+            </p>
+            <p>Laid open in a NARRARIVE Sent to his late Highneſs OLIVER LORD PROTECTOR</p>
+            <p>
+               <hi>Auguſt</hi> 5. 1658.</p>
+            <q>
+               <bibl>
+                  <hi>JUDG. 19.30.</hi>
+               </bibl>
+               <p>Conſider of it, take advice, and ſpeak your minds.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> printed by <hi>T. R.</hi> for the Author, 1660.</p>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:33772:2"/>
+            <pb facs="tcp:33772:2"/>
+            <head>To his Highneſs OLIVER LORD PROTECTOR Of the Common-wealth of <hi>England, Scotland</hi> and <hi>Ireland,</hi> &amp;c.</head>
+            <opener>
+               <salute>May it pleaſe your Highneſs,</salute>
+            </opener>
+            <p>YOur Highneſ's Declaration for a Thanksgiving upon <hi>Wedneſday</hi> laſt, <hi>July 21.</hi> hath given me occaſion as a providential encouragement of God for this humble addreſs, by the incloſed Narrative, obſerving what grief of heart it was to your Highneſs, that the laſt Parliament was broken up before they could begin to think of a ſettle<g ref="char:EOLhyphen"/>ment
+<pb facs="tcp:33772:3"/>for Religion, and the civil Go<g ref="char:EOLhyphen"/>vernment of this Nation, as your Highneſs intimates in the beginning of this Declaration. But I know your Highneſs hath learn'd of God to look higher then ſublunary Inſtruments in all ſuch Events; and that the moſt high ruleth in the kingdom of men, and bindeth up the hearts and counſels of the Nations; as at the ſame ſeſſion he marvellouſly bound up your Thames within, that the Channel could not run with any freeneſs.</p>
+            <p>My Lord, I deſire to be ſtill one of thoſe Remembrancers that give the Lord no reſt till he hath made his Jeru<g ref="char:EOLhyphen"/>ſalem a praiſe in the earth, and to ſee before I die, Gods gracious preſence re-establiſht in our Sion in the beautie of his holineſs, and this poor un<g ref="char:EOLhyphen"/>worthy Common-wealth reformed into a more righteous Government then hi<g ref="char:EOLhyphen"/>therto we have obtained. God hath late<g ref="char:EOLhyphen"/>ly ſhewed me to my grief much iniquity in the very frame, and what God hath
+<pb facs="tcp:33772:3"/>ſhewed me, I crave the boldneſs to give a hint to your Highneſs of it in this Narrative, that you may have the glory beyond many Lawgivers of this Nation. Your Predeceſſors in the Throne to reform the conſtitutions of the Courts of Juſtice into a more excellent conformity with the wiſedom of Gods Word where they are out of courſe. And what if God hath carried on this afflict<g ref="char:EOLhyphen"/>ed cauſe (now at length before your Highneſs) for this purpoſe, that it might be an inducement to your High<g ref="char:EOLhyphen"/>neſs to ſeek of God (as <hi>Moſes</hi> did in all difficult caſes) a better way for your people, whom I hear in many corners of the land groaning and complaining under their great oppreſſions through the Corruptions of Law.</p>
+            <p>This caſe between the Earl of <hi>Leyceſter</hi> and my ſelf, fell out to be concluded but a few weeks before the ſeſſion of the laſt Parliament, and I feared ſadly for your Highneſs and the whole Nation, what would follow there<g ref="char:EOLhyphen"/>upon,
+<pb facs="tcp:33772:4"/>upon, it being ſometimes the courſe of God to take advantage againſt a Na<g ref="char:EOLhyphen"/>tion in bringing a general Judgement upon them for ſome eminent Act of Cruelty and Injuſtice committed a<g ref="char:EOLhyphen"/>gainſt one of his little ones. The Lord who is afflicted in all our Afflictions, give my Lord Protector a compaſſio<g ref="char:EOLhyphen"/>nate heart to relieve the poor, who put their truſt in the Lord, againſt the proud and mighty that beaſt them<g ref="char:EOLhyphen"/>ſelves againſt them.</p>
+            <p>To draw up all in ſhort, that I may not intrench upon the weighty affaires that are before your Highneſs, you have here, my Lord, the innocent con<g ref="char:EOLhyphen"/>demned, yea a whole family to be cut off as far as the Law can reach them. A moſt cruel Verdict abhorred by the con<g ref="char:EOLhyphen"/>ſciences of your Judges yet unreverst; The right of the Goſpel Miniſtry in reproof of ſin diſcountenanced; and the Priviledge of the Peers whilest they were laid aſide by Parliament un<g ref="char:EOLhyphen"/>duly allowed againſt a clear Law, a<g ref="char:EOLhyphen"/>gainſt
+<pb facs="tcp:33772:4"/>common reaſon, and againſt all Preſidents in Courts of Juſtice untill this preſent caſe. Whereupon it follow<g ref="char:EOLhyphen"/>ed that the preparations made by your Highneſs and Parliament before their adjournment in a hopefull way for ſome ſettlement in the civil Govern<g ref="char:EOLhyphen"/>ment, were notwithſtanding at their next meeting ſoon unravelled upon the difference of the houſes about the very point of Peers, and thoſe Gentle<g ref="char:EOLhyphen"/>men that had a hand in condemning this cauſe; the one at the Aſſize, the other in the upper bench, both, by a ſignal check of providence, repulſed in a meſ<g ref="char:EOLhyphen"/>ſage to your houſe of Commons upon this point. Oh, my Lord, whileſt the Controverſie was managed in private, I could ſhew your Highneſs how ter<g ref="char:EOLhyphen"/>ribly God pleaded with our adverſary in private, laying it ſorely upon himſelf and his family, but ſince he hath broke out into the publick, and managed miſ<g ref="char:EOLhyphen"/>chief by a Law; Now God hath ap<g ref="char:EOLhyphen"/>peared in publick likewiſe, and yet he
+<pb facs="tcp:33772:5"/>knows I grieve to think what an influ<g ref="char:EOLhyphen"/>ence it hath had upon your Highnes's Affairs, and may yet have if not pre<g ref="char:EOLhyphen"/>vented.</p>
+            <p>If therefore the Lord ſhall ſhew this afflicted cauſe to your Highneſs, and all the iniquity that hath moved him to any diſpleaſure thereupon, be pleaſed to anſwer Gods expectation in ſome way of ſpeedy redreſs; And let my Lord do for God and his diſtreſſed ones, as much as King <hi>Pyrrhus</hi> did for <hi>Fa<g ref="char:EOLhyphen"/>bricius</hi> the Roman General, who while he was ingaged in a War with the <hi>Ro<g ref="char:EOLhyphen"/>mans,</hi> his Phyſician ſent to <hi>Fabricius,</hi> telling him, that if he pleaſed, he would poyſon his Maſter, but <hi>Fabricius</hi> abhorring ſuch a villany, ſent <hi>Pyrrhus</hi> word of it, whereupon he apprehended and crucified his gratitude to <hi>Fabricius,</hi> diſmiſſed all the <hi>Roman</hi> Priſoners without Ranſome, acknowledging that he could not make ſufficient compenſa<g ref="char:EOLhyphen"/>tion for ſuch a favour.</p>
+            <pb facs="tcp:33772:5"/>
+            <p>My Lord, God hath delivered up thoſe into your hands that lately ſought your life, and hath put into your hands that inimicitious Fort of <hi>Flanders</hi> that hath ſo often annoyed this land,<note>PLACE="marg" Dunkirck.</note> and from whence the enemy had prepared now al<g ref="char:EOLhyphen"/>ſo to annoy you: and what more an<g ref="char:EOLhyphen"/>ſwerable return can your Highneſs make to your good God, that in pity hath ſaved us, then to reſtore Gods Captives that are laid up even in your chains, which is all that is humbly deſired at this time by</p>
+            <closer>
+               <salute>My Lord</salute>
+               <signed>Your Highneſs moſt humble and faithfull ſervant, <hi>JOHN MAUDIT.</hi>
+               </signed>
+               <dateline>Penſherſt, <date>
+                     <hi>July 22. 1658.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div n="persecution" type="account">
+            <pb facs="tcp:33772:6"/>
+            <pb n="1" facs="tcp:33772:6"/>
+            <head>A NARRATIVE OF The Sufferings of the Miniſter of <hi>Penſherſt</hi> under the Proſecution of the Earl of <hi>Leyceſter.</hi>
+            </head>
+            <opener>
+               <salute>May it pleaſe your Highneſs.</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hatſoever your Highneſs owne troubles may be in this heavy and burthenſome place, (wherein we ceaſe not to pray for you) yet I hope you have a Chriſtian ear and heart o<g ref="char:EOLhyphen"/>pen
+<pb n="2" facs="tcp:33772:7"/>to receive the com<g ref="char:EOLhyphen"/>plaints of Gods poor op<g ref="char:EOLhyphen"/>preſſed people from all pla<g ref="char:EOLhyphen"/>ces, making it your chief work, as our Lord the chief Shepherd, to mind the poor of the flock above your ſelf, to carry the Lambs compaſſi<g ref="char:EOLhyphen"/>onately in your boſome, and diligently drive thoſe that are with young: this is indeed a princes truſt, comfort and ſecurity.</p>
+            <p>
+               <hi>His Comfort,</hi> as you may ſee in <hi>Job</hi> 16.17, 25. <hi>I was a fa<g ref="char:EOLhyphen"/>ther to the poor, and the cauſe which I knew not, I ſearched out, and I brake the jaws of the wicked, and pluckt the ſpoil out of his teeth. Then I ſaid, I ſhall die in my neſt, and I ſhall multiplie my dayes as the ſand.</hi>
+            </p>
+            <p>Thus <hi>Job</hi> once ſolaced him<g ref="char:EOLhyphen"/>ſelf
+<pb n="3" facs="tcp:33772:7"/>with the thoughts of his care and compaſſions over the afflicted, and he aſſumes this Title in the cloſe of all to himſelf as his great glory, That he was one that had comforted the Mourners.</p>
+            <p>
+               <hi>His Security and Eſta<g ref="char:EOLhyphen"/>bliſhment,</hi> as we ſee in <hi>Phi<g ref="char:EOLhyphen"/>neas,</hi> of whom the ſpirit teſ<g ref="char:EOLhyphen"/>tifies, <hi>Then stood up</hi> Phineas <hi>and executed Juſtice, and ſo the plague ſtayed:</hi> that one act of Juſtice eſtabliſhing him in an everlaſting Prieſt<g ref="char:EOLhyphen"/>hood, and freeing the land from a general Judgement.</p>
+            <p>The Lord make both good to your Highneſs, that it may be your comfort and ſtability to relieve the af<g ref="char:EOLhyphen"/>flicted; for it is one of the moſt experienced Maximes of State, the Book of Gods
+<pb n="4" facs="tcp:33772:8" rendition="simple:additions"/>Recordes, and is filled with moſt Preſidents of, <hi>Did not thy Father eat and drink, and do judgement and juſtice, and then it was well with him,</hi> ſaith the Lord to <hi>Joſiah</hi>'s ſon? <hi>He judgeth the cauſe of the poor and needy, then it was well with him, was not this to know me,</hi> ſaith the Lord? <hi>Jer.</hi> 22.15, 16.</p>
+            <p>My Lord, my caſe is much one with the poor diſtreſſed men of <hi>Jabeſh Gilead</hi> in King <hi>Sauls</hi> dayes, 1 <hi>Sam.</hi> 11.1. <hi>&amp;c. Nahaſh the Ammo<g ref="char:EOLhyphen"/>nite came up, and encamped againſt</hi> Jabeſh Gilead: <hi>and all the men of</hi> Jabeſh <hi>ſaid un<g ref="char:EOLhyphen"/>to</hi> Nahaſh <hi>make a Covenant with us, and we will ſerve thee.</hi>
+            </p>
+            <p>
+               <hi>And</hi> Nahaſh <hi>the Ammo<g ref="char:EOLhyphen"/>nite anſwered them on this
+<pb n="5" facs="tcp:33772:8"/>condition, Will I make a Co<g ref="char:EOLhyphen"/>venant with you, that I may thruſt out all your right eyes, and lay it for a Reproach upon all Iſrael.</hi>
+            </p>
+            <p>
+               <hi>And the Elders of</hi> Jabeſh <hi>ſaid unto him, give us ſeven dayes reſpit that we may ſend Meſſengers unto all the coaſts of Iſrael; and then if there be no man to ſave us, we will come out to thee.</hi>
+            </p>
+            <p>
+               <hi>Then came the Meſſengers to</hi> Gibeah <hi>of</hi> Saul, <hi>and told the tidings in the ears of the people, and all the people lift up their voice and wept.</hi>
+            </p>
+            <p>
+               <hi>And behold</hi> Saul <hi>came af<g ref="char:EOLhyphen"/>ter the herd out of the field, and</hi> Saul <hi>ſaid, what aileth the people that they weep? and they told him the tidings of the men of</hi> Jabeſh.</p>
+            <p>
+               <hi>And the Spirit of God
+<pb n="6" facs="tcp:33772:9"/>came upon</hi> Saul <hi>when he heard thoſe tidings, and his anger was kindled greatly, and he took a yoke of Oxen, and hewed them in pieces, and ſent them thoroughout all the coaſts of Iſrael by the hands of Meſſengers, ſaying, who<g ref="char:EOLhyphen"/>ſoever cometh not forth after</hi> Saul <hi>and after</hi> Samuel: <hi>ſo it ſhall be done unto his Oxen, and the fear of the Lord fell on the people, and they came out with one conſent.</hi>
+            </p>
+            <p>My Lord, I have been tru<g ref="char:EOLhyphen"/>ly beſieged many years by the Earl of <hi>Leyceſter,</hi> whiles I have laboured in much ſin<g ref="char:EOLhyphen"/>cerity in the work of the Goſpel here to gain this lit<g ref="char:EOLhyphen"/>tle flock to Chriſt, who hath for this ſeven years cut off the dues of Tithes which his Lordſhip ſhould have
+<pb n="7" facs="tcp:33772:9"/>paid for maintenance of me and my afflicted family; ſo that for want of our own, we have been burthenſome to our friends for a liveli<g ref="char:EOLhyphen"/>hood; beſides the ſaid Earl hath for theſe ſix years de<g ref="char:EOLhyphen"/>voured our Gleab-land by making a Warren next to our land; ſo that we have loſt in the judgement of ju<g ref="char:EOLhyphen"/>dicious men above half the profit of the land yeerly, whil'ſt my Lord (making it a Warren for profit, not for pleaſure) hath inriched himſelf by multitudes of Rabbets ſold to <hi>London,</hi> which winter and ſummer were fed upon our ground. Beſides this alſo, the ſaid Earl hath ſeized upon our wood, timber and trees at ſeveral times, and a parcel of the
+<pb n="8" facs="tcp:33772:10"/>Gleab-land which he hath railed off from us for theſe five years together, to diſtreſs us in the accommodations of our Gleab. And after all this and many more grie<g ref="char:EOLhyphen"/>vous Moleſtations which have endangered the life of my wife thorough great frights ſometimes, and caſt both of us into ſickneſs of<g ref="char:EOLhyphen"/>ten. The word of God in <hi>Levit.</hi> 26.14, 15, 16. leading ut to reprove thoſe that caſt off Gods Ordinances, I ap<g ref="char:EOLhyphen"/>plyed the word of God a<g ref="char:EOLhyphen"/>gainſt the Earl of <hi>Leyceſter</hi> by name, for withdrawing from the preſence of God for five years together, and greatly diſcouraging the Re<g ref="char:EOLhyphen"/>formation of Religion in this place, as alſo for much cruel uſage of me and other
+<pb n="9" facs="tcp:33772:10"/>unwarrantable courſes which he perſevered in, notwith<g ref="char:EOLhyphen"/>ſtanding many private ad<g ref="char:EOLhyphen"/>dreſſes made to his Lord<g ref="char:EOLhyphen"/>ſhip by my ſelf to convince him of the evil of his ways; his rage growing yet higher and higher, year after year; whereupon the Earl com<g ref="char:EOLhyphen"/>mences a ſuit againſt me, de<g ref="char:EOLhyphen"/>claring, that I ſpake theſe words againſt him, <hi>viz. That the Earl was a wicked man, a cruel Oppreſſor, and an ene<g ref="char:EOLhyphen"/>my to Reformation,</hi> and got 500 li. damages at the Aſ<g ref="char:EOLhyphen"/>ſize in <hi>Kent.</hi> Some of the Iury being drawn on as they have ſince confeſſed, with a pretence, that the Earl would not take a farthing of the money, but only have a Fine for his honour: but having got the Verdict, he
+<pb n="10" facs="tcp:33772:11"/>proſecuted it vigorouſly at the upper bench to have it confirmed. The Judges be<g ref="char:EOLhyphen"/>ing through the hand of God upon their hearts inclin'd to pity, and having a high ſenſe of the grievous da<g ref="char:EOLhyphen"/>mages, took the cauſe into mature deliberation, and arreſted the Judgement for three Terms, hearing the Counſel on both ſides. Mean while Applications were made to the Earl by Major General <hi>Kelſey,</hi> Sir <hi>Michael Leuſey</hi> High Sheriffe, Lieute<g ref="char:EOLhyphen"/>nant Col. <hi>Compton,</hi> Captain <hi>Brown,</hi> Dr. <hi>Thomas Goodwin,</hi> Mr. <hi>Neigh,</hi> Mr. <hi>Lockier,</hi> Mr. <hi>Griffith,</hi> and Baron <hi>Parker,</hi> that his Lordſhip would be pleaſed of his own accord to remit the damages that were given him, which would be
+<pb n="11" facs="tcp:33772:11"/>more for his honour then thouſands in reparation. His Lordſhips anſwer to them was, that the Law ſhould go on till I was at his Mercy, and then he would do what be ſhould think fitting. At the length God moved the hearts of the honourable Judges of the upper bench to ſend two meſſages to his Lordſhip, the one by the Earls Solicitor Mr. <hi>Pew;</hi> the other by Mr. <hi>Broughton,</hi> the Clark of the Crown, order<g ref="char:EOLhyphen"/>ing Mr. <hi>Pew</hi> to writ to his Lordſhip from them, that though his Lordſhip had the Judgement, yet he ſhould forbear to take out any exe<g ref="char:EOLhyphen"/>cution againſt the Defen<g ref="char:EOLhyphen"/>dant for perſon or goods, or moleſt me farther to diſturb me in the work of the Mini<g ref="char:EOLhyphen"/>ſtry,
+<pb n="12" facs="tcp:33772:12"/>and withal appointed Mr. <hi>Broughton</hi> to go down in perſon to the Earl, and let him know the mind of the Court therein, Mr. <hi>Brough<g ref="char:EOLhyphen"/>ton</hi> after he had delivered the Meſſage of the Judges, was bold to preſs his Lordſhip with many arguments of re<g ref="char:EOLhyphen"/>ligion and honour, to let fall his diſpleaſure, and be in<g ref="char:EOLhyphen"/>clined to a Chriſtian Recon<g ref="char:EOLhyphen"/>ciliation.</p>
+            <p>But theſe being not ac<g ref="char:EOLhyphen"/>cepted, he offered his Lord<g ref="char:EOLhyphen"/>ſhip 100 li. towards his charges in the ſuit; that be<g ref="char:EOLhyphen"/>ing not accepted, he offered his Lordſhip to have the Gleab-land, and take out his own ſatisfaction as he pleaſ<g ref="char:EOLhyphen"/>ed thereupon: all which be<g ref="char:EOLhyphen"/>ing rejected, he offered upon ſome reaſonable time given,
+<pb n="13" facs="tcp:33772:12"/>the Miniſter ſhould quit the place, and be gone. In<g ref="char:EOLhyphen"/>deed my Lord we thought it too much after all our wrongs we had ſuſtained, to give up a place that we had ſetled upon us for our life by a gracious act of your High<g ref="char:EOLhyphen"/>neſs in confirming of Seque<g ref="char:EOLhyphen"/>ſtrations upon the Miniſters, who aforetime were greatly oppoſed by turbulent peo<g ref="char:EOLhyphen"/>ple in thoſe places for want of a ſettlement: eſpecially ſeeing it was not for any debt that we owed the Earl, or cleer damage, but for words which were wrongful<g ref="char:EOLhyphen"/>ly laid to my charge: but had they been ſpoken, my Lord chief Juſtice <hi>Glinn</hi> was pleaſ'd openly upon the caſe, to declare they were not ſo much as actionable at com<g ref="char:EOLhyphen"/>mon
+<pb n="14" facs="tcp:33772:13"/>Law, and ſo not worth two pence. But Mr. <hi>Broughton</hi> thinking that would content him, we were willing, if the Will of God were ſo, (tak<g ref="char:EOLhyphen"/>ing the advice of our bre<g ref="char:EOLhyphen"/>thren in the Miniſtry in the caſe (with all convenient ſpeed) to depart, and go where God ſhould call us: But the Earl granting us no time of deliberation, but having a mind to our goods as well as our Tithes, and our land, next day after Maſter <hi>Broughton</hi> departed, puts the execution (which he had got by him before Mr. <hi>Broughtons</hi> Application, notwithſtand<g ref="char:EOLhyphen"/>ing the advertiſment ſent him from the Judges by his own ſolicitour) in force, and ſends to the Sheriffe for a <hi>fieri facias,</hi> and ſo ſeizes up<g ref="char:EOLhyphen"/>on
+<pb n="15" facs="tcp:33772:13"/>all the goods he could find of ours within doors, and without, our Kine, our Barns of corn, and wood-barns, Waggons, Hay, and houſ<g ref="char:EOLhyphen"/>hould furniture, Hangings, Tables, Chairs, Beds and bed<g ref="char:EOLhyphen"/>ding that were under us, and our Children, and the leaſt inconſiderable Imple<g ref="char:EOLhyphen"/>ments that could be found.</p>
+            <p>Alas! now we found by ſad experience, what it was to be given up to the Earl of <hi>Leyceſters</hi> mercy, which ma<g ref="char:EOLhyphen"/>ny in City and Country were held in expectation of, but we had found ever cruell: being uſed thus with ſo much rigor and extremity, Mr. <hi>John Seyliard</hi> a Gentleman of this Pariſh, offered his Lord<g ref="char:EOLhyphen"/>ſhip theſe three propoſitions in our behalf.</p>
+            <pb n="16" facs="tcp:33772:14"/>
+            <list>
+               <item>1. That my Lord be pleaſ<g ref="char:EOLhyphen"/>ed to give the Miniſter a full releaſe of the Judgement his Lordſhip hath againſt him, upon his reſignation of this Rectory.</item>
+               <item>2. That a competent time be agreed on for removal of his family and goods coming in this ſummer, and ſeeking a ſettlement in ſome other place, which cannot well be leſs then a years time, or about <hi>Michaelmas</hi> come 12. months; in the mean time, that Mr. <hi>Samuel Seyliard</hi> of<g ref="char:EOLhyphen"/>ficiate here in the Miniſters abſence by his Lordſhips per<g ref="char:EOLhyphen"/>miſſion.</item>
+               <item>3. That his Lordſhip and the reſt of the pariſh be pleaſed to pay the dues of the place unto the Miniſter peacably, together with the Arrears
+<pb n="17" facs="tcp:33772:14"/>are due, untill the time which his Lordſhip ſhall a<g ref="char:EOLhyphen"/>gree unto for the reſigning up of this place unto him.</item>
+            </list>
+            <p>The Earl of <hi>Lyceſter</hi>'s an<g ref="char:EOLhyphen"/>ſwer was, that he did not like the Propoſitions in regard that the time was too long, &amp; that he would not meddle with the Arrears of the Pa<g ref="char:EOLhyphen"/>riſh. Mr. <hi>Seyliard</hi> replyed, that leſs time would ſuffice, then a years ſpace for the Miniſters reſignation, if his Lordſhip would not allow him ſo much; and for Ar<g ref="char:EOLhyphen"/>rears of the Pariſh, he and others would take care to be gathered up and paid, if his Honor would ingage for his own Arrears; and if theſe Propoſitions did not like his Honour, that then he would be pleaſed to ſay what would content him.</p>
+            <pb n="18" facs="tcp:33772:15"/>
+            <p>His Lordſhip made an<g ref="char:EOLhyphen"/>ſwer, No, he would not de<g ref="char:EOLhyphen"/>clare himſelf, but when Pro<g ref="char:EOLhyphen"/>poſitions were made that he liked of, he would ſay ſomething to them. Whileſt theſe things were in agitati<g ref="char:EOLhyphen"/>on, and friends were prepa<g ref="char:EOLhyphen"/>ring yet more acceptable terms, (as was thought) his Lordſhip makes haſt to get what was to be had, and re<g ref="char:EOLhyphen"/>newes his writ, and comes upon us ſuddenly by Bay<g ref="char:EOLhyphen"/>liffes, who in an unlawfull way climbed up into the ſta<g ref="char:EOLhyphen"/>bles where our horſes were, and brake in, and unhang<g ref="char:EOLhyphen"/>ed the door, and took out two Mares, which were alſo ſold off, and the monies, as the former, returned for his Lordſhip. After this (by the importunity of friends
+<pb n="19" facs="tcp:33772:15"/>being perſwaded, who took exceedingly to heart out ſuf<g ref="char:EOLhyphen"/>ferings under this Earl from time to time, as did all good Chriſtians) Captain <hi>Pike</hi> went in to his Lordſhip with this our propoſition.</p>
+            <p>That his Lordſhip be pleaſed to give the Miniſter a releaſe of the Judgement of 512 li. upon his reſigna<g ref="char:EOLhyphen"/>tion of this Rectory at <hi>Mi<g ref="char:EOLhyphen"/>chaelmas</hi> next.</p>
+            <p>The Anſwer that Captain <hi>Pike</hi> brought from his Lord<g ref="char:EOLhyphen"/>ſhip, was, <hi>That he expected to have what the Country gave him, and he would be under no Contract with me for the fu<g ref="char:EOLhyphen"/>ture; but if I brought my Reſignation to him, he would do what he ſhould think fit<g ref="char:EOLhyphen"/>ing.</hi>
+            </p>
+            <p>This was the Anſwer, as
+<pb n="20" facs="tcp:33772:16"/>well nigh as I could take it from the Captain, that his Lordſhip at length is come to, expecting, for ought I can underſtand, that I ſhould come forthwith with my Reſignation, not allowing me half a years time to re<g ref="char:EOLhyphen"/>move my family, and place my ſelf other where; where<g ref="char:EOLhyphen"/>upon it would follow, that I muſt looſe the benefits of this year alſo, which is now ready to come in; and yet after all this, if I or the Cap<g ref="char:EOLhyphen"/>tain that brought this An<g ref="char:EOLhyphen"/>ſwer, underſtand his Lord<g ref="char:EOLhyphen"/>ſhip, by refuſing to be under any <hi>Contract pro future,</hi> he expect; I ſhould deliver up my Reſignation to him, and then leave him to his plea<g ref="char:EOLhyphen"/>ſure, whether he will alſo take the benefit of the Judg<g ref="char:EOLhyphen"/>ment
+<pb n="21" facs="tcp:33772:16"/>or no, or give me any Arrears for Tithes or no; this ſeems to be like the old ſtrain, that I ſhould caſt my ſelf upon his mercy, which I truſt in the Lord I ſhall ne<g ref="char:EOLhyphen"/>ver <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ve need of. See, my Lord, a ſad ſtory in a ſhort Map of many years ſuffer<g ref="char:EOLhyphen"/>ings, we are ſtraitly beſieged with a potent enemy, whoſe thirſt we know not what will ſatisfie; he hath kept our dues for ſeven years, and de<g ref="char:EOLhyphen"/>voured our Land, ſeized up<g ref="char:EOLhyphen"/>on our goods before the Judgement was given him, &amp; much more ſince: and how low ſoever he hath us under his feet, it makes him ſo much the higher to inſult o<g ref="char:EOLhyphen"/>ver us. Is it a right eye that would content him? No, my Lord, but if we may give a
+<pb n="22" facs="tcp:33772:17" rendition="simple:additions"/>gueſs, our very l<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d would ſcarce ſatisfie him, not being contented with a ſurrender of this place, but endeavour<g ref="char:EOLhyphen"/>ing farther, as I have cauſe to fear, the utter undoing, not only of my ſelf, but alſo of my poor afflicted family, if God, prevent it not; O my Lord, I beſeech your High<g ref="char:EOLhyphen"/>neſs conſider it well, what is my crime, that I ſhould ſuf<g ref="char:EOLhyphen"/>fer theſe things, and that in your dayes when God hath raiſed up ſo Chriſtian a Ma<g ref="char:EOLhyphen"/>giſtrate for the help of his oppreſſed people, and cha<g ref="char:EOLhyphen"/>ſtiſement of thoſe that op<g ref="char:EOLhyphen"/>poſe the Plantation of Zion, the Reformation of the Church. Shall a Miniſter of the Goſpel be worried thus in the conſcientious diſ<g ref="char:EOLhyphen"/>charge of his office againſt an
+<pb n="23" facs="tcp:33772:17"/>
+               <note place="margin">There be<g ref="char:EOLhyphen"/>ing not one Preſi<g ref="char:EOLhyphen"/>dent upon Engliſh Records, that ſuch miniſterial reproof was accounted an Act of Sedition</note>offendour? Shall a Chriſtian reproof in this firſt Preſident be accounted ſedition, and the innocent be condemned? Shall the Priviledges of the old Peerage be raiſed upon the ruines of my family only, which ſince the act of the Common-wealth have been queſtioned in ſo many caſes granted in none but this? Shall it be filed up in the Court of Heaven againſt the great day of Judgement, that this was the Juſtice of <hi>En<g ref="char:EOLhyphen"/>gland,</hi> to make a man ſuch an Offendor for a word which was not actionable, if it had been ſpoken, yea, to ruine him for it? In Qu. <hi>Maries</hi> days it was but but 100 <abbr>l.</abbr> fine to have ſpoken worſe words then theſe of the Queen her ſelf: And<note place="margin">
+                  <hi>Statute</hi> An. primo &amp; ſecundo Mariae, <hi>c, 3.</hi>
+               </note>
+               <pb n="24" facs="tcp:33772:18"/>ſhall 500 <abbr>l.</abbr> ſtand upon Re<g ref="char:EOLhyphen"/>cord for the Earl of <hi>Leyceſter</hi> for ſaying, <hi>He is a cruel man.</hi> If my Lord of <hi>Leyceſter</hi> do not ſay, at length as that <hi>Amoniet,</hi> yet will not the Aduerſaries of Reforma<g ref="char:EOLhyphen"/>tion ſay: And let this be alſo laid for a reproach to all their Iſrael.</p>
+            <p>Shall not the Lord viſit for theſe things? yea, and hath he not already began to viſit, if we could ſee his hand, for it is not unuſual with God for one mans ſin to viſit with a general Judgement; witneſs the famine in <hi>Davids</hi> time, for <hi>Sauls</hi> cruelty upon the <hi>Gibeonites:</hi> the overthrow of the ſtate of Iſrael for <hi>Elies</hi> ſon lewdneſs. The Marriners danger of Ship<g ref="char:EOLhyphen"/>wrack for <hi>Jonah</hi> his of<g ref="char:EOLhyphen"/>fence:
+<pb n="25" facs="tcp:33772:18" rendition="simple:additions"/>The Armies defeat at <hi>Ai</hi> for <hi>Achans</hi> theft; the famine over all lands for <hi>Jo<g ref="char:EOLhyphen"/>ſephs</hi> hard uſage, the Judge<g ref="char:EOLhyphen"/>ment upon <hi>Egypt</hi> for Iſraels cruel bondage: ſurely the Lord hath lookt upon our ſufferings alſo, and hath and <gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>l with much jealouſie reckon for them; yet the Lord give us patience, for we muſt not deſire the evil day upon our Perſecutors: the Lord in much mercy wipe off our blood from the Thrones of Juſtice, and give theſe men repentance that are guilty of it. But my gracious Lord, <hi>I</hi> crave hum<g ref="char:EOLhyphen"/>bly leave to ſet this day be<g ref="char:EOLhyphen"/>fore your Highneſs, all that hath paſt, which <hi>I</hi> am per<g ref="char:EOLhyphen"/>ſwaded hath been hid from you; how be it the Lord
+<pb n="24" facs="tcp:33772:19"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="25" facs="tcp:33772:19"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="26" facs="tcp:33772:20" rendition="simple:additions"/>ſeems not to accept from Princes that excuſe for pub<g ref="char:EOLhyphen"/>lick miſcarriages in the Common-wealth. <hi>Behold we knew it not,</hi> Pro. 24.11, 12. <hi>If thou, forbear to deliver them that are drawn</hi>
+               <note n="*" place="margin">Ini<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> op<g ref="char:EOLhyphen"/>preſſos, <hi>ſaith</hi> Junius.</note> 
+               <hi>unto death, and thoſe that are rea<g ref="char:EOLhyphen"/>dy to be ſlain: if thou</hi>
+               <note n="†" place="margin">Ne putes tibi ex<g ref="char:EOLhyphen"/>cuſationem fore ſeg<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>itiae tuae aut infir<g ref="char:EOLhyphen"/>mitatis, quafi aut neſciveris peſſime cum illis agi aut ra<g ref="char:EOLhyphen"/>tionem juvandi illos, at<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> liberandi minime tenueris (crimen in leges transferendo). Nam Deus judex ejuſmodi eſt qui perpendat intima corda, optime cognoſcat, &amp; juſti<g ref="char:EOLhyphen"/>fime judicaturus ſit.</note> 
+               <hi>ſa<gap reason="illegible" resp="#OXF" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>, Behold we knew it not, doth not he that pondereth the heart, conſider it, and he that keepeth</hi>
+               <note n="*" place="margin">A male ſeu periculo quo devenit proximus tu<g ref="char:EOLhyphen"/>us, tu autem ab e<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> liberaris, ut oppreſſis opituleris. Sic Eſtherae <hi>4.13, 14. Junius.</hi>
+               </note> 
+               <hi>thy ſoul, doth not he know
+<pb n="27" facs="tcp:33772:20"/>it, and ſhall not he render un<g ref="char:EOLhyphen"/>to every man according to his works?</hi> The Lord therefore give me favour in your high<g ref="char:EOLhyphen"/>neſſe's ſight, in making known to your Highneſs the diſtreſſes of our deeply af<g ref="char:EOLhyphen"/>flicted hearts; for we have confidence in your Highneſs render compaſſions, and readineſs to relieve all Op<g ref="char:EOLhyphen"/>preſſions. We were un<g ref="char:EOLhyphen"/>willing hitherto (though we bore much) to create trouble to your Highneſs about our cauſe, knowing your burthen to be great enough in order<g ref="char:EOLhyphen"/>ing the publick Affairs of the Nation: but now that our Adverſary hath acted all this againſt us upon the publick Theater of the Courts of Juſtice, and that in the Pro<g ref="char:EOLhyphen"/>tectors name, and nothing
+<pb n="28" facs="tcp:33772:21"/>ſeems to content him herein but our ruine (having exe<g ref="char:EOLhyphen"/>cuted this Judgement to the utmoſt of his power for the deſtroying of me and my fa<g ref="char:EOLhyphen"/>mily) we dare not hold our peace, but commending out cauſe to the Lord for Coun<g ref="char:EOLhyphen"/>ſel, are bold to ſolicit that power God hath put in your Highneſs hands for our re<g ref="char:EOLhyphen"/>lief, truſting, that as <hi>Moſe's</hi> ears were open to the daugh<g ref="char:EOLhyphen"/>ters of <hi>Zelophehad</hi>'s com<g ref="char:EOLhyphen"/>plaints in their particular caſe, as well as to the publick Affairs, yea, and made a new Law for them, when the common Law could not re<g ref="char:EOLhyphen"/>lieve them: So the Lord will alſo graciouſly affect your Highneſs heart with theſe our ſufferings in parti<g ref="char:EOLhyphen"/>cular, and by his ſpirit of wiſ<g ref="char:EOLhyphen"/>dome
+<pb n="29" facs="tcp:33772:21"/>direct you to give ſpeedy ſome check to the Earls great rage, and fierce proceedings, in a way of Righteouſneſs and equity, according to the power God hath intruſted your Highneſs with.</p>
+            <p>Fear not, my Lord, fear not to own this afflicted cauſe, and ſearch into it, and the Lord put his ſpirit upon your Highneſs, as once he did upon <hi>Saul</hi> and <hi>Moſes,</hi> to relieve your Brethren that ſuffer af<g ref="char:EOLhyphen"/>fliction in your dayes. If your Highneſs find the ſen<g ref="char:EOLhyphen"/>tence righteous, puniſh me double to my offence; but if innocency be found in me, and conſcience convince you that <hi>I</hi> ſuffer much wrong, relieve me, and let not this decree ſtand in Gods fight upon publick Record much longer.</p>
+            <p>Be<g ref="char:EOLhyphen"/>hold,
+<pb n="30" facs="tcp:33772:22"/>
+O Lord, <hi>I</hi> am brought low, but yet not below thy help who art the Almighty, whoſe methode and manner of working is ſuch, as not to ſtep in, till all creature helps fail, and ſtand as impotent Idols, and ſay as that King of <hi>Iſrael, If the Lord do not help, how can I help?</hi>
+            </p>
+            <p>
+               <hi>Iſraels</hi> task is increaſed, and their male Children ſtrangled by <hi>Pharaohs</hi> command, before they are brought out of <hi>E<g ref="char:EOLhyphen"/>gypt; Jonah</hi> caſt over board into the mercileſs waters, and buried alive in a more merci<g ref="char:EOLhyphen"/>leſs Leviathan, before delive<g ref="char:EOLhyphen"/>rance comes: <hi>Iſaac</hi> bound to the wood for a ſacrifice before he be releaſed; <hi>Joſeph</hi> brought to the priſon before his ad<g ref="char:EOLhyphen"/>vancement: <hi>Daniel</hi> let down into the Lyons den, before his enemies
+<pb n="31" facs="tcp:33772:22"/>Accuſation was fruſtrated. The captive Jews under the Kings royal ſignet ſentenced to be maſſacred, before they become favourites in the <hi>Perſian</hi> Court; and the poor men of <hi>Jabeſh Gilead</hi> brought to diſgracefull Articles, before their inſulting enemies was o<g ref="char:EOLhyphen"/>verthrown, and put to flight: This is Gods uſual manner with his people, whoſe faith be puts upon trial to the ut<g ref="char:EOLhyphen"/>moſt; not to ſave, till none can ſave: And therefore the Lord keep up our faith that it may not fail. Here we are, if the Lord ſay, he hath no delight in us, let him do with us what ſeemeth him good; but if he pleaſe to conſult his own glory in our deliverance, we will ſay as <hi>Mordecai,</hi> Enlargement and
+<pb n="32" facs="tcp:33772:23"/>Deliverance ſhall ariſe to us, though all ſhould forſake us; but who knoweth whether my Lord Protector be come to the Kingdom for ſuch a time as this, to relieve Chriſts oppreſſed ones, who other<g ref="char:EOLhyphen"/>wiſe had been every here cruſhed, which is the expecta<g ref="char:EOLhyphen"/>tion and prayer of Gods peo<g ref="char:EOLhyphen"/>ple, and in ſpecial of</p>
+            <closer>
+               <salute>Your Highneſs</salute>
+               <signed>In all humble Devotion and faithful obſervance, <hi>JHON MAUDIT</hi>
+               </signed>
+               <dateline>
+                  <hi>Penſherſt,</hi> 
+                  <date>July 22, 1658.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="judgment">
+            <pb facs="tcp:33772:23"/>
+            <p>THeſe Papers being left at <hi>White-Hall, Auguſt</hi> 5. 1658. for the Secrerary to communi<g ref="char:EOLhyphen"/>cate to his Highneſs at <hi>Hampton</hi> Court: The next morning the Lord contends in a very terri<g ref="char:EOLhyphen"/>ble thunder, which laſted about ſix houres, and took off a fair bough from the chief Cedar of our <hi>Lebanus.</hi> And delayes being made from time to time by the secretary,
+<pb facs="tcp:33772:24"/>the Lord (who is jea<g ref="char:EOLhyphen"/>lous for his oppreſſed people, and gives quick returns to prayer) pleads again in a very tempeſtu<g ref="char:EOLhyphen"/>ous wind, and ſhortly thereupon puts a period to the life of the Lord Protector, which gave occaſion of that great mourning that fell out nigh about the time that this Judgement was given, the year before 1657. as appears by the Record of the upper-Bench Court in the ſuit of the Earl of <hi>Leyceſter.</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="court_record">
+                        <pb facs="tcp:33772:24"/>
+                        <opener>
+                           <date>
+                              <hi>Wedneſday</hi> in 15. days of St. <hi>Martin,</hi> 1657.</date>
+                        </opener>
+                        <p>
+                           <hi>Unleſs cauſe be ſhewed to the contrary upon Friday next after</hi> 15. <hi>dayes of St. Martine, let Judgement be entred for the Plantiffe upon the motion of Mr. Sergeant Twiſden.</hi>
+                        </p>
+                        <closer>
+                           <signed>By the Court.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Obſervable alſo it was in the next Parliament called, <hi>January</hi> 27. 1658. how God teſtified againſt Peerage in the hot Conteſts between the Houſes about it, and at length changed the whole Government: and in the Parliament aſſembled, <hi>May</hi> 7.1659 the houſe declared both againſt a ſingle Perſon
+<pb facs="tcp:33772:25"/>and houſe of Peers in their firſt Vote. God hath many reaſons doubtleſs of his Actions, yet it were good to make this uſe upon the whole matter, that it is the great intereſt and ſecurity of Governours, to do Ju<g ref="char:EOLhyphen"/>ſtice and relieve the op<g ref="char:EOLhyphen"/>preſſed, and not turn a<g ref="char:EOLhyphen"/>ſide the poor in the gate from their right, <hi>for the Lord will plead their cauſe, and ſpoil the ſoul of thoſe that ſpoiled them.</hi>
+               <note place="margin">Pro. 22.23</note>
+            </p>
+            <pb facs="tcp:33772:25"/>
+         </div>
+      </body>
+   </text>
+</TEI>
